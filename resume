@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)file:///D:/mca60/new.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="./new_files/icon" rel="stylesheet">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.split
+{
+ height:100%
+width:50% 
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding:50px;
+  height: 1015px; 
+}
+
+
+.column1 {
+  float: right;
+  width: 50%;
+  padding:50px;
+  height: 900px; 
+
+} 
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+h2{
+       font-family:goudy old style;
+       color:blueviolet;
+
+
+
+</style>
+</head>
+<body>
+
+<h1 style="font-family:arial rounded MT" ,text="" align="center">BIO DATA</h1>
+
+
+<img src="new.jpg" alt="woman" style="float:right; width:180px; height:190px;">
+
+
+  <div class="column" style="background-color:#DABCF6;">
+
+
+
+     <h2><u>Objective:</u></h2>
+     <h4>Looking to create an impact and envisage meaningful change.My Primary Goal is to use my full potential and experience to help company so as to reach Great heights.</h4><h4>
+
+      </h4><h2 style="font-family:goudy old style"><u>Personal Skills:</u></h2>
+      <h4> I'm fresh young graduate with clear passion towards problem solving and finding creative solutions, 
+           ready to tackle any challenging situation that comes in my own way with enthusiasm and strong determination.</h4>
+      
+     <h2 style="font-family:goudy old style"><u>Education:</u></h2>
+     <h4><u>2022-2024</u></h4>
+     <h4>Vivekanandha Institue of Information &amp; Management Studies at Tiruchengode</h4>
+     <h5>Master Of Computer Applications in Anna University</h5>
+     <h4><u>2019-2022</u></h4>
+     <h4>Seethalakshmi Ramaswami College with 71% at Trichy</h4>
+     <h5>Bachelor Of Computer Applicatios in Bharathidasan University</h5>
+     <h4><u>2019</u></h4>
+     <h4>Sri Ramakrishana Matric Hr Sec School with 54% at Perambalur</h4>
+     <h5>XII</h5>
+     <h4><u>2017</u></h4>
+     <h4>Arasu Nagar Matric Hr Sec School with 62%  at Ariyalur</h4>
+    
+
+     <h2 style="font-family:goudy old style"><u>Area Of Interest:</u></h2>
+     <h4>Web Development</h4>
+  </div>
+  
+
+
+<div class="column1" style="background-color:#FFFFFF;">
+   
+     <h2 style="font-family:goudy old style"><u>Technical Qualifications:</u></h2>
+    <h4>
+    HTML<br><br>
+    Web Designing<br><br>
+    Python<br><br>
+    MySql<br><br>
+    </h4> 
+
+     <h2 style="font-family:goudy old style"><u>Interest:</u></h2>
+     <h4>Reading Books by Robin Sharma<br><br>
+     Designing In Canva<br><br>
+     Enhancing knowledge Web Designing<br><br>
+     Badmition<br><br>
+     </h4>
+
+
+
+<h2 style="font-family:goudy old style"><u>Personal Details:</u></h2>
+<h4>DOB:11/10/2002<br><br>
+          Father's Name:Sankar T
+</h4>
+
+
+<h4>
+<i class="material-icons"> </i> Address:J.J Nagar,MIG-3,Ariyalur.<br><br>
+<a href="tel:+918778764256"><b>Direct Call</b>
+
+</a></h4><a href="tel:+8778764256">
+
+</a><a href="mailto:yuvana1110@gmail.com"><b>Direct Mail</b></a><br><br>
+<a href="https://github.com/Yuvana02"> <b>GitHub Account</b></a><br><br>
+
+<a href="www.linkedin.com/in/yuvana-sankar"> <b>LinkedIn</b>  </div>
+
+
+
+
+
+</body></html>
